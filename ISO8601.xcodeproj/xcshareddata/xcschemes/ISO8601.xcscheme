@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "1250"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "212539B51B1595FD00F29EF3"
+               BlueprintIdentifier = "EE1B116126DE7CBC00D47A64"
                BuildableName = "ISO8601.framework"
-               BlueprintName = "ISO8601-macOS"
+               BlueprintName = "ISO8601"
                ReferencedContainer = "container:ISO8601.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,24 +32,13 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "212539BF1B1595FD00F29EF3"
-               BuildableName = "ISO8601Tests-OSX.xctest"
-               BlueprintName = "ISO8601Tests-macOS"
+               BlueprintIdentifier = "EE77045526E259640090C9C9"
+               BuildableName = "ISO8601Tests.xctest"
+               BlueprintName = "ISO8601Tests"
                ReferencedContainer = "container:ISO8601.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "212539B51B1595FD00F29EF3"
-            BuildableName = "ISO8601.framework"
-            BlueprintName = "ISO8601-macOS"
-            ReferencedContainer = "container:ISO8601.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -61,17 +50,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "212539B51B1595FD00F29EF3"
-            BuildableName = "ISO8601.framework"
-            BlueprintName = "ISO8601-macOS"
-            ReferencedContainer = "container:ISO8601.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -82,9 +60,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "212539B51B1595FD00F29EF3"
+            BlueprintIdentifier = "EE1B116126DE7CBC00D47A64"
             BuildableName = "ISO8601.framework"
-            BlueprintName = "ISO8601-macOS"
+            BlueprintName = "ISO8601"
             ReferencedContainer = "container:ISO8601.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
